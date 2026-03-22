@@ -1,6 +1,5 @@
-реадми нормальный я писать не хотел, попросил клауд 
-используйте для хорроших целей!!!
-***makefile :***
+
+#***makefile :***
 THEOS_ROOT := $(HOME)/theos
 
 SDK := $(THEOS_ROOT)/sdks/iPhoneOS16.5.sdk
